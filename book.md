@@ -565,8 +565,10 @@ come sistema di regolamentazione. A dimostrare che l'attuale meccanismo di repor
 * il caso facebook su hate speech
 * citazioni altri casi (a pioggia)
 
+<!--
 Va aggiunta parte sull'attualità: (epidemia che aumenta la tele-feresi, indebolisce, isola, allontana. Insomma la
 situazione emergenziale aumenta la necessità di decostruire i sistemi di automatizzazione).
+-->
 
 # Note conclusive
 
