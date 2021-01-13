@@ -289,7 +289,7 @@ nella scelta di quale obiettivi perseguire e di quale posizione osservazione ado
 conto della complessità dell'osservazione e per mantenere la capacità di comunicare i risultati, ma aderiamo al metodo sperimentale di
 raccolta prove e analisi comparativa.
 
-Utilizziamo lo schema scientifico di riproducibilità sull'apprendimento automatico, versione 2,7 del aprile 2020. 
+Utilizziamo lo schema scientifico di riproducibilità sull'apprendimento automatico, versione 2,7 del aprile 2020.
 [Reproducibility checklist][]: Per ogni modello e algoritmo presentato, viene inclusa una descrizione chiara degli assunti matematici e dei modelli
 considerati, analisi della complessità che comprende: tempo, spazio e quantità di dati per ogni algoritmo. Ogni ipotesi teorica comprende la
 prova in completezza e la sua descrizione. Ogni banca dati utilizzata è accompagnata dalla statistica di rilievo, come numero di esempi,
@@ -383,17 +383,17 @@ geo-localizzato e regionalizzato per cui una versione che viene applicata in una
 Le competenze e le esperienze pratiche di TRex sono condivisibili: utilizzabili da ricercatori come metodo di analisi o da un'entità
 produttrice di contenuti che voglia capire le logiche di valutazione e di un partner che voglia supportare l'esperienza e il lavoro di TRex.
 
-Offriamo test affidabili, in un panorama dove anche i test inaffidabili vengono comunque ripresi e utilizzati e i racconti aneddotici
-rischiano di essere il riferimento più ricorrente.
+"Offriamo test affidabili, in un panorama dove anche i test inaffidabili vengono comunque ripresi e utilizzati e i racconti aneddotici
+rischiano di essere il riferimento più ricorrente".
 
 # Storia di Trex
 
-## 2016: FBTREX
+## 2016: FbTRex
 
 Claudio Agosti scrive fbtrex, un'estensione per navigatore che permette agli utenti di registrare i propri dati, prodotti durante la
 navigazione su Facebook. (to be expanded)
 
-## 2016: ALEX
+## 2016: AlEx
 
 In unione con il consiglio di ricerca Europeo e l'Università di Amsterdam nasce il progetto ALEX: Algoritmo Esposto. Mirato a smascherare le
 funzionalità degli algoritmi di personalizzazione sulle piattaforme social media. In un'ottica di data-attivismo nella pratica, ossia di
@@ -406,8 +406,10 @@ possibilità agli utenti di monitorare, paragonare e riflettere in modo indipend
 
 Il primo report investigativo è stato realizzato in Argentina durante il G20
 
+<!--
 * cosa è stato fatto e com'è andata
 * dicendo in cosa è consistito, su che scala e cosa se ne è ricavato
+-->
 
 ## 2018: Facebook e le elezioni italiane
 
@@ -518,6 +520,15 @@ precedente.
 
 Abbiamo bisogno di nuovi esperimenti.
 
+<!--
+ampliare come il distanziamento sociale, misura presa dalle nazioni democratiche per non
+lasciare indietro le persone più fragili, naturalmente genera isolamento e ipo-tele (aumento ipertrofico di attività
+telematica) in un contesto sociale impreparato. All'inizio di questa circostanza emergenziale l'utilizzo e dunque
+l'impatto delle piattaforme, non so se citare il termine GMAFIA, è aumentato e l'esperimento potrex, analizzando le
+conseguenze algoritmiche della fruizione del sesso telematico, acquista maggiore contemporaneità (come tutta
+trex). (to be rephrased)
+-->
+
 ## 2019: Amazon
 
 amazon.tracking.exposed si è proposta di studiare l'algoritmo di Amazon, società nata come vendita di libri ed oggi
@@ -561,4 +572,5 @@ situazione emergenziale aumenta la necessità di decostruire i sistemi di automa
 
 Il testo che avete letto è un lavoro in fase di sviluppo, alcune porzioni, come la storia del progetto o le metodologie di analisi, non sono
 ancora state descritte.  Aggiornamenti possono essere trovati a <https://tracking.exposed>.
+
 
