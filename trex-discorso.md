@@ -2,11 +2,11 @@
 
 # Introduzione
 
-La connessione ininterrotta ad internet che sperimentiamo in questi anni è una novità, la rete è un formidabile
+La connessione permanente ad internet che ormai sperimentiamo è una novità. La rete è un formidabile
 strumento di raccolta dati; scollegarsi non è un'opzione praticabile, a meno di non rinunciare a *quasi* ogni servizio
 possibile, dalla relazioni con le proprie cerchie, al noleggio di un'automobile o la gestione di un conto in
-banca. Inoltre la recente pandemia globale ha imposto l'introduzione del distanziamento sociale, aumentando di frequenza
-e importanza le pratiche di connessione remota come la teledidattica, il telelavoro e gli acquisti online.
+banca. Inoltre, la recente pandemia globale ha imposto l'introduzione del distanziamento sociale, aumentando di frequenza
+ed importanza le pratiche di connessione remota come la teledidattica, il telelavoro e gli acquisti online.
 
 Ad ogni connessione gli individui lasciano dietro di sé un grande numero di dati e metadati, che vengono utilizzati come
 merce dalle ditte private che li raccolgono tramite servizi "gratuiti", come ad esempio i social network. Questi dati
@@ -16,9 +16,8 @@ indirizzare il consenso sia in area di marketing che di governance politica.
 
 La capacità di raccogliere grandi quantità di dati è privilegio delle entità che possiedono i mezzi di produzione adatti
 a farlo e queste entità non corrispondono alle istituzioni locali o statali, ma sono ditte private come ad esempio
-Google, Amazon e Facebook. Le quali li posseggono, trattano e rivendono in un'ottica di profitto privato che non per
-forza corrisponde a un bene comune. Ci troviamo di fronte ad una asimmetria informativa e dunque di potere. Le leggi
-sulla Privacy rincorrono e non precedono l'innovazione scientifica e sono inadeguate a rapportarsi con il potere delle
+Google, Amazon e Facebook. Esse posseggono, trattano e rivendono i dati in un'ottica di profitto privato che non necessariamente corrisponde a un bene comune. Ci troviamo di fronte ad un'asimmetria informativa e dunque di potere. Le leggi
+sulla Privacy rincorrono e non precedono l'innovazione (scientifica?) e sono inadeguate a rapportarsi con il potere delle
 entità private sovente extra nazionali che posseggono i dati dei cittadini.
 
 Il modo in cui i Big Data vengono raccolti e trattati, le modalità di analisi dei dati, chiama in causa la parola
@@ -26,78 +25,77 @@ Algoritmo. Gli algoritmi sono calcoli finiti che hanno lo scopo di trarre conclu
 una ricetta non è neutrale, come non lo è la Statistica e non lo è l'algoritmo. Il punto d'osservazione, le modalità di
 acquisizione, la capacità e la volontà di cercare o dimostrare qualcosa influiranno sul risultato finale, che verrà poi
 fornito formattato per ulteriore interpretazione. Il modo in cui viene presentata un'informazione contiene già un
-giudizio, un punto di vista e un obiettivo.
+giudizio, un punto di vista (più che punto di vista io direi giudizio di valore o piuttosto visione del mondo) e un obiettivo.
 
-Gli algoritmi che vengono utilizzati per raccogliere e utilizzare i dati non sono pubblici, il loro funzionamento è
-segreto aziendale. Non sappiamo con quale criterio dopo un determinato video su Youtube ce ne viene proposto un altro,
-possiamo intravedere lo scopo pubblicitario, ma non quello politico. Non sappiamo ancora come funziona, ma ci siamo
+Gli algoritmi non sono pubblici e il loro funzionamento è
+segreto aziendale. Non sappiamo con quali criteri ci vengono raccomandati video su Youtube.
+Possiamo intravedere lo scopo pubblicitario, ma non quello politico. Non sappiamo ancora come funziona, ma ci siamo
 accorti come queste informazioni siano utilizzate per determinare il consenso e per regolare le comunità al suo interno.
 
-Il caso Cambridge Analytica: nel 2018, grazie a una inchiesta giornalistica del canale Tv inglese Channel 4, viene
+Il caso Cambridge Analytica: nel 2018, viene
 rivelato che la società Cambridge Analytica ha usato a scopo politico i dati degli utenti, fornendo loro informazioni su
 misura, azione che nel loro gergo tecnico viene detta segmentazione, allo scopo di influenzare le scelte elettorali. La
-società riceveva i dati da Facebook, ufficialmente senza pagarli ma come ricercatori. Negli anni è intervenuta per
-influenzare le elezioni di Argentina, Nigeria, Italia e Stati Uniti. Per stessa ammissione raccolta in video del
+società riceveva i dati da Facebook, ufficialmente senza pagarli ma come ricercatori (?). Negli anni è intervenuta per
+influenzare le elezioni in Argentina, Nigeria, Italia e Stati Uniti. Per stessa ammissione raccolta in video del
 responsabile Alexander Nix, le attività di gestione del consenso non si limitavano all'uso dei dati, ma comprendevano
 attività più palesemente illecite, come l'utilizzo di sex workers per ricattare i candidati politici scomodi. Lo
 scandalo travolge Cambridge Analytica, chiudendola, ma anche Facebook. Quando il suo fondatore Mark Zuckerberg sarà
 interrogato al Senato USA, alla domanda su quale sia la natura dei suoi affari risponderà: "Senatore, noi facciamo
 pubblicità - Senator, we run ads". Fino ad allora Facebook non si riferiva a sé come a un'agenzia pubblicitaria, ma come
-a un servizio gratuito per mettere in collegamento le persone nel mondo. Il suo potere è altro ancora: Facebook ha il
-possibilità di influenzare la politica.
+a un servizio gratuito per mettere in collegamento le persone nel mondo. Il suo potere è altro ancora: Facebook ha la
+possibilità di influenzare la politica. (aggiungerei anche: la nostra visione del mondo e i nostri comportamenti PER I LORO INTERESSI).
 
-Tracking Exposed nasce nel 2016, per analizzare dall'esterno il funzionamento di un algoritmo.
+Tracking Exposed nasce nel 2016, per analizzare dall'esterno (??) il funzionamento di un algoritmo.
 
-Per raggiungere un'etica dell'informazione dobbiamo essere in grado di interpretare il funzionamento degli algoritmi che
-trattano le informazioni che ci riguardano. Non avendo accesso al codice sorgente degli algoritmi, possiamo applicare il
-metodo scientifico creando una situazione mirata, raccogliere i dati che ne scaturiscono e confrontarli. Si, stiamo
+Per sviluppare un'etica dell'informazione dobbiamo essere in grado di interpretare il funzionamento degli algoritmi. Non avendo accesso al codice sorgente degli algoritmi, possiamo applicare il
+metodo scientifico creando una situazione mirata (cioè?), raccogliere i dati che ne scaturiscono e confrontarli. Si, stiamo
 tirando palline da ping pong verso un muro invisibile e cerchiamo di capire la natura del muro studiando le palline che
 ci ritornano.
 
 Una delle funzioni degli algoritmi è di tracciare i comportamenti personali e fornire risposte diverse a persone
 diverse, ad esempio in quale diverso ordine vengono proposti i post sulla timeline di Facebook. Per questo abbiamo
-creato un add-on per il navigatore in modo che su base volontaria le persone potessero fornirci i dati che Facebook crea
-durante l'esperienza di utilizzo, e rilevare le eventuali diversità di trattamento tramite il confronto.
+creato un'estensione per browsers (ovvero add-on) in modo che su base volontaria le persone potessero fornirci i dati che Facebook crea
+durante l'esperienza di utilizzo, e rilevare le eventuali diversità di trattamento tramite il confronto. (così pare siate in grado di raccogliere tutti i dati che facebook crea durante la navigazione. non credo proprio. sbaglio?).
 
 Lo scopo esplicito di Tracking Exposed è di rivelare la natura ed il funzionamento delle tecnologie di tracciamento,
-dato che le conseguenze sul mondo reale sono importanti. È un compito non risolvibile con un approccio legislativo e
+dato che le conseguenze sul mondo reale sono ormai innegabili/profonde/sistemiche. È un compito difficilmente risolvibile con un approccio legislativo e
 certamente non si può chiedere alla stessa entità che trae profitto dall'uso dell'algoritmo come segreto industriale, di
 spiegarci il suo funzionamento, ancor di più illusorio sarebbe credere che possa, senza svelarne la natura, mitigare le
-conseguenze o la nocività, in quanto sarebbe in contrasto con l'interesse privato dell'azienda.
+conseguenze o la nocività, in quanto sarebbe naturalmente antitetico all'interesse privato dell'azienda.
 
-Ogni tentativo di interazione di tipo legislativo si è rivelato fino ad oggi insufficiente, ma di fronte
+Ogni (un pò troppo generalizzante ed estremo? io direi quasi ogni..) tentativo di interazione di tipo legislativo si è rivelato fino ad oggi insufficiente, ma di fronte
 all'obsolescenza delle leggi - il legislatore segue l'innovazione tecnologica, non può precederla - l'approccio non può
 essere puramente di tipo legislativo, inoltre l'aumentare dell'automazione nella burocrazia di ambito anche giuridico,
-l'uso delle intelligenze artificiali in ambito normativo e la tendenza a costruire regole basandosi sui dati (data
+l'uso delle intelligenze artificiali (perché plurale?) in ambito normativo e la tendenza a costruire regole basandosi sui dati (data
 driven policy) rende urgente avere la possibilità di conoscere e poter decostruire gli elementi che partecipano alla
 formazione dei dati. Occorre incamminarsi verso un tipo di etica dell'informazione che consideri l'individuo come agente
 libero e responsabile, portatore di un pacchetto di informazioni di cui va salvaguardata l'integrità, non solo la
 proprietà, e che sia questo approccio etico a guidarci nelle scelte future. Occorre che le istituzioni di monitoraggio
-etico-politico (watchguard) siano in grado di effettuare le analisi in proprio e in maniera indipendente, sia possedendo
+etico-politico (watchguard) (cioè? a me pare uno dei problemi è che manchino tali istituzioni; per esempio, trex dovrebbe essere un'istituzione pubblica a mio parere) siano in grado di effettuare le analisi in proprio e in maniera indipendente, sia possedendo
 gli strumenti tecnici che il metodo di analisi. Perché siano in grado di collaborare tra loro e con la comunità
 scientifica.
 
-Sappiamo che la tecnologia non è neutrale, che l'intelligenza artificiale fallisce nel comprendere contesto e intento e
-che l'algoritmo è oggi strumento di governance politica. Un discorso di decostruzione del potere ha bisogno di farsi
-comprendere, per questo si avrà un approccio interdisciplinare. Per comprendere e farci comprendere chiederemo aiuto
-alla sociologia, alla semiotica, alla psicologia ma prima ancora crediamo che servano evidenze tecnologiche ricavate
-empiricamente: nasce tracking exposed.
+Sappiamo che la tecnologia non è neutrale (ripetizione. io mi sottolinerei di più l'aspetto politico e più che tecnologia di design), che l'intelligenza artificiale fallisce nel comprendere contesto e intento (?) e
+che l'algoritmo è oggi strumento di governance politica (non mi è chiaro tale concetto, in che senso governance?). Un discorso di decostruzione del potere ha bisogno di farsi
+comprendere, per questo si avrà un approccio interdisciplinare (ma più che farsi comprendere - aumentando la complessità concettuale - l'interdisciplinarietà serve per comprendere. cioè, in generale, l'interdisciplinarietà aiutando a comprendere serve a far comprendere. non credo che problematizzando il lettore comune comprenda più facilmente, anzi). Per comprendere e farci comprendere chiederemo aiuto
+alla sociologia, alla semiotica, alla psicologia (ma più che alle discipline io direi offriremo una sintesi onnicomprensiva chiedendo aiuto a sociologi, psicologi - e dato che che si cita tanto l'etica - a filosofi - altrimenti non ha senso secondo me) ma prima ancora crediamo che servano evidenze tecnologiche ricavate
+empiricamente (così pare che si dia un valore superiore all'analisi empirica su quella teorica, che a mio parere è sbagliato: si tratta di una sinergia inscindibile): nasce tracking exposed. (prima si usa un futuro poi il presente: meglio 'per questo è nato il progetto ...'?)
 
 Gli algoritmi organizzano il tempo e il consenso. Non esiste una soluzione tecnica (tecno-soluzionismo) perché Il
 problema non è solo tecnico, ma sociale, giuridico, politico e tecnico. La rete non è uno spazio staccato dalla realtà,
-le conseguenze della repressione algoritmica variano a seconda della situazione geopolitica dove si esprimono, ma
-ricadono sempre e con grande violenza sul corpo. Ad esempio, un post "sbagliato" su Facebook in Italia può causare un
-licenziamento, sempre su Facebook ma in un Paese in guerra può costare la vita.
+le conseguenze della repressione algoritmica variano a seconda della situazione (geo)politica dove si esprimono, ma
+ricadono sempre (sempre?) e con grande violenza sul corpo (in che senso?). Ad esempio, un post "sbagliato" su Facebook in Italia può causare un
+licenziamento, ma in un Paese in guerra può costare la vita.
 
-Crediamo che ai Big Data si debba rispondere con Big Rights. È una questione politica e non solo economica. Per avere
+Crediamo che ai Big Data si debba rispondere con dei 'Big Rights'. È una questione politica e non solo economica. Per avere
 dei diritti bisogna esercitarli e dunque conoscerli. I dati possono essere utilizzati, in un contesto democratico,
 nell'interesse collettivo (common good), in attesa che questo sia possibile, vogliamo contribuire a tenere aggiornata la
 pubblica opinione e la comunità scientifica sulle dinamiche dello sfruttamento dati e stimolare un dibattito a questo
 proposito. Lo scopo di Tracking Exposed è di evidenziare e rendere esercitabili i diritti legati allo sfruttamento dei
 dati, fare informazione e sviluppare critica, allo stato attuale non possiamo ambire a promuovere soluzioni, ma a far
 conoscere il funzionamento degli algoritmi proprietari, il quale è un requisito necessario per ogni forma di democrazia
-moderna, perché Internet può diventare un mezzo di oppressione. La causa della libertà nel secolo 21 è inestricabilmente
-connessa alla resistenza alla sorveglianza elettronica.
+moderna, perché Internet è, dopotutto, anche un mezzo di oppressione. La causa della libertà nel secolo 21 è inestricabilmente
+connessa alla resistenza alla sorveglianza elettronica (e, aggiungerei, alla trasparenza delle analisi dei dati raccolti).
 
 # Posizioni citabili: spunti, slogan e le spalle dei giganti.
 
@@ -144,25 +142,25 @@ interessi e rinforza i tuoi pregiudizi".  Eli Pariser, Filter bubble, 2011.
 # gli Algoritmi di personalizzazione
 
 Gli algoritmi di personalizzazione sono nati perché le compagnie volevano rendere l'esperienza online meno noiosa, piú
-efficiente e soddisfacente. Gli algoritmi sono serviti ad evitare lo spam. Oggi regolano il discorso pubblico
+efficiente e soddisfacente (efficienza=ottimizzazione engagement e soffisfazione sono inversamente proporzionali a mio parere, quindi più che meno noiosa e soddisfacente, la volevano più eccitante e gratificante, che invece sono emozioni allineate con l'ottimizzazione). Gli algoritmi sono serviti ad evitare lo spam (eh, insomma, manco questo!!). Oggi regolano il discorso pubblico
 all'interno dei social media e di conseguenza sulla governance, fino all'individuo. Disincentivano il pensiero
 critico: se radio e la tv sono strumenti di manipolazione di massa, amalgamatore di immaginari ed unificatore
-linguistico, almeno almeno si può dire dell'internet della raccolta dati. Che sia per limitare l'information
-overload, o che sia per tenere l'utente incollato allo schermo e vendere più pubblicità, l'algoritmo svolge una funzione
-di gatekeeping non solo automatizzato, ma i cui presupposti ideologicizzati non sono accessibili.
+linguistico, almeno si può dire dell'internet della raccolta dati (?). Che sia per limitare l'information
+overload (in italiano sovraccarico cognitivo, metterei entrambe, una tra parentesi, ci vuole una funzione didattica secondo me, empatizzando con chi non conosce affatto questi concetti, in inglese poi..), o che sia per tenere l'utente incollato allo schermo e vendere più pubblicità, l'algoritmo svolge una funzione
+di gatekeeping non solo automatizzato, ma i cui presupposti ideologicizzati non sono accessibili. (che in fin dei conti son probabilmente diversi da invididuo a individuo, da gruppo sociale a gruppo sociale, e da nazione a nazione - tipo una personalizzazione della personalizzazione)
 
 Data la loro complessità, gli algoritmi non sono comprensibili dal pubblico e inoltre sono segreti, le compagnie non
-cedono i dati e tantomeno le formule. È irrealistico chiedere alle compagnie di autoregolarsi. Per verificare che le
+cedono i dati e tantomeno le formule. È irrealistico chiedere alle compagnie di autoregolarsi. (è poco credibile, non irrealistico). Per verificare che le
 imprese non mettano in atto pratiche scorrette nei confronti del consumatore si rivela necessaria un'analisi terza ed
 indipendente sugli algoritmi che possono condizionare indebitamente. Inoltre non si può discutere di vessatorietà di
 clausole contrattuali senza considerare come effettivamente i dati del consumatore vengono sfruttati per discriminare,
 non solo sulla base di nazionalità e luogo di residenza, ma anche sulla base di dati molto più sensibili quali
-orientamento sessuale, reddito e disponibilità economica, stato civile e livello di istruzione. Le dichiarazioni delle
+orientamento sessuale, reddito e disponibilità economica, stato civile e livello di istruzione (ma aggiungerei numerose altre possibili inferenze oltre quelle molto generali). Le dichiarazioni delle
 imprese non sono sufficienti. È data la possibilità di documentare e analizzare prove circa l'aggressività e la
 pervasività di pratiche commerciali dai tempi e modalità personalizzate algoritmicamente. Gli algoritmi devono essere
-conosciuti attraverso l'analisi esterna e indipendente.
+conosciuti attraverso un'analisi esterna e indipendente.
 
-Le conseguenze della repressione algoritmica sono in parte ancora da vedere, ma sappiamo già che: "Conoscere gli
+Le conseguenze della repressione algoritmica sono in parte ancora da vedere (in parte? in grandissima parte!), ma sappiamo già che: "Conoscere gli
 individui meglio di quanto conoscano sé stessi è un formidabile mezzo di controllo." Manufacturing consent, Edward
 Herman e Noam Chomsky, 1988. Sappiamo anche che "Internet non è più uno spazio libero e indipendente, ma è
 commercialmente controllato e personalizzato, Google e Facebook ciberanno gli utenti di ciò che vogliono che veda, il
